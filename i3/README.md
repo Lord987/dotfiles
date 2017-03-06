@@ -2,22 +2,37 @@
 
 ## I3wm
 <kbd>Mod</kbd><kbd>Shift</kbd><kbd>A</kbd> : Close current application
+
 <kbd>Mod</kbd><kbd>Shift</kbd><kbd>E</kbd> : Log out of I3
+
 <kbd>Mod</kbd><kbd>L</kbd> : Calls ilock
+
 <kbd>Mod</kbd><kbd>Shift</kbd><kbd>R</kbd> : Reload I3
 
+
 <kbd>Mod</kbd><kbd>R</kbd> : Resize tile
+
 <kbd>Mod</kbd><kbd>H</kbd> : Split horizontaly
+
 <kbd>Mod</kbd><kbd>V</kbd> : Split verticaly
+
 <kbd>Mod</kbd><kbd>F</kbd> : Fullscreen tile
+
 <kbd>Mod</kbd><kbd>E</kbd> : Tile layout
+
 <kbd>Mod</kbd><kbd>S</kbd> : Stacked layout
+
 <kbd>Mod</kbd><kbd>Z</kbd> : Tabbed layout
 
+
 <kbd>Mod</kbd><kbd>ENTER</kbd> : Open a terminal
+
 <kbd>Mod</kbd><kbd>Shift</kbd><kbd>F</kbd> : Open firefox
+
 <kbd>Mod</kbd><kbd>Shift</kbd><kbd>H</kbd> : Open Thunar
+
 <kbd>Mod</kbd><kbd>Shift</kbd><kbd>S</kbd> : Dmenu SSH
+
 <kbd>Mod</kbd><kbd>D</kbd> : Dmenu
 
 ## Emacs
